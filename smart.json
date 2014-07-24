@@ -1,0 +1,9 @@
+{
+  "name": "stupid-models",
+  "description": "Use collections as if they were MVC style models",
+  "homepage": "",
+  "author": "Charanjit Singh <ckhabra@gmail.com> (http://channikhabra.github.io)",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {}
+}
