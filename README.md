@@ -33,7 +33,7 @@ TodoModel.extend({
    // of course todo.title will work as well
    return this.title; 
  },
- setTitle: functoin(title) {
+ setTitle: function(title) {
    //update works little different than MongoCursor.update. You'll figure it out when you use it
    this.update({title: title})
    return this;
@@ -65,7 +65,7 @@ Ok, let me give you some examples:
         defaultValues: {
           //explained above
         },
-        getTitle: functoin() {
+        getTitle: function() {
         
         }
     })
