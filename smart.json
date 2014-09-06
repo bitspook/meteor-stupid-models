@@ -1,9 +1,0 @@
-{
-    "name": "stupid-models",
-    "description": "Use collections as if they were MVC style models",
-    "homepage": "https://github.com/channikhabra/meteor-stupid-models",
-    "author": "Charanjit Singh <ckhabra@gmail.com> (http://channikhabra.github.io)",
-    "version": "0.0.2",
-    "git": "https://github.com/channikhabra/meteor-stupid-models.git",
-    "packages": {}
-}
