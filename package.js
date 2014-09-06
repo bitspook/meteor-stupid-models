@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-    api.use([]);
+    api.use(["underscore"]);
 
     api.add_files([
         'lib/base_model.js',
