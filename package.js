@@ -1,6 +1,6 @@
 Package.describe({
   summary: "MVC like models in meteor",
-  version: "0.0.5",
+  version: "0.0.6",
   git: "https://github.com/channikhabra/meteor-stupid-models.git"
 });
 
