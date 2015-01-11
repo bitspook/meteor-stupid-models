@@ -1,16 +1,16 @@
-#meteor-stupid-models
+#meteor-smart-models
 
 **Credits**: Most of the work (BaseModel) in this package is done by James Gillmore (@facespacey) and Matheus Simons (@matheus90). I just happened to not like code-rewriting and the weird way we were using models, and so I abstracted out this package with an interface I like.
 
 ### Why this name?
-Because I am feeling stupid nowadays =( *[Thu Jul 24 16:39:40 2014]*
+Because I am feeling smart nowadays =( *[Thu Jul 24 16:39:40 2014]*
 
 ### Why this package?
 Meteor is cool. Mongo is awesome. But Models in MVC frameworks are great at code re-usability. This package makes it easy to get rid of helpers and shit and push more code into models. It allows to write reusable to great extent. 
 
 ### How to install?
 ```sh
-mrt install stupid-models
+mrt install smart-models
 ```
 
 ## How to use?
