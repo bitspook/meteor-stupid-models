@@ -1,6 +1,6 @@
 Package.describe({
   summary: "MVC-like models in meteor",
-  version: "0.0.7",
+  version: "0.0.8",
   git: "https://github.com/nucleuside/meteor-smart-models.git",
   name: "nucleuside:smart-models"
 });
